@@ -4,15 +4,16 @@ title: Welcome
 tags: [intro, hello, blog]
 ---
 
+:::tip[~]
 Shifu : If you only do what you can do, you&#39;ll never be better than what you are.
 Po : But I like who I am!
 Shifu : You don&#39;t even know who YOU are!
 
-:::tip[~]
-I am Ubellah Maria and I’m here to be your Master Shifu to help you find your worth and
-become your best self ever!
-
 :::
+
+\
+I am **Ubellah Maria** and I’m here to be your Master Shifu to help you find your worth and
+become your best self ever!
 
 ### Why?
 
