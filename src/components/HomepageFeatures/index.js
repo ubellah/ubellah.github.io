@@ -4,38 +4,46 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Why?',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        People — My eternal Passion. Forever love. All-time Happiness factor.
+        I have coached and helped hundreds of Kung Fu Pandas identify who they are,
+        their strengths and opportunities, come up with actionable plans, guided them
+        through their journey to overcome their fears, failures and accomplishments.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'What?',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Identify core values
+        Break your mirrors – Stop your own deceptive talk
+        Identify your strengths, hidden potentials, energy drainers and opportunities
+        Help you chart out meaningful personal and professional goals and walk along
+        with you in the journey
+        Bring in clarity and hence transformation and growth
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'How?',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Invested 1:1 conversations
+        Self-Introspection and meaningful discussions
+        Design personalised systems for transformation
+        Share actionable tips and templates
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
