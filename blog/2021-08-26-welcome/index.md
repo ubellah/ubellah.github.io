@@ -1,25 +1,38 @@
 ---
 slug: welcome
 title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+tags: [intro, hello, blog]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+Shifu : If you only do what you can do, you&#39;ll never be better than what you are.
+Po : But I like who I am!
+Shifu : You don&#39;t even know who YOU are!
 
-Simply add Markdown files (or folders) to the `blog` directory.
+:::tip[~]
+I am Ubellah Maria and I’m here to be your Master Shifu to help you find your worth and
+become your best self ever!
 
-Regular blog authors can be added to `authors.yml`.
+:::
 
-The blog post date can be extracted from filenames, such as:
+### Why?
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
+People — My eternal Passion. Forever love. All-time Happiness factor.\
+I have coached and helped hundreds of Kung Fu Pandas identify who they are,
+their strengths and opportunities, come up with actionable plans, guided them
+through their journey to overcome their fears, failures and accomplishments.
 
-A blog post folder can be convenient to co-locate blog post images:
+### What?
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
+Identify core values\
+Break your mirrors – Stop your own deceptive talk\
+Identify your strengths, hidden potentials, energy drainers and opportunities
+Help you chart out meaningful personal and professional goals and walk along
+with you in the journey
+Bring in clarity and hence transformation and growth
 
-The blog supports tags as well!
+### How?
 
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+Invested 1:1 conversations
+Self-Introspection and meaningful discussions
+Design personalised systems for transformation
+Share actionable tips and templates

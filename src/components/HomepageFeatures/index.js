@@ -8,10 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        People — My eternal Passion. Forever love. All-time Happiness factor.
-        I have coached and helped hundreds of Kung Fu Pandas identify who they are,
-        their strengths and opportunities, come up with actionable plans, guided them
-        through their journey to overcome their fears, failures and accomplishments.
+        People — My eternal Passion. Forever love. All-time Happiness factor. <br />
       </>
     ),
   },
@@ -20,12 +17,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Identify core values
+        Identify core values <br />
         Break your mirrors – Stop your own deceptive talk
-        Identify your strengths, hidden potentials, energy drainers and opportunities
-        Help you chart out meaningful personal and professional goals and walk along
-        with you in the journey
-        Bring in clarity and hence transformation and growth
       </>
     ),
   },
@@ -34,10 +27,9 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Invested 1:1 conversations
-        Self-Introspection and meaningful discussions
-        Design personalised systems for transformation
-        Share actionable tips and templates
+        Invested 1:1 conversations <br />
+        Self-Introspection and meaningful discussions<br />
+        <a href='/blog/welcome'> Read more...</a>
       </>
     ),
   },
