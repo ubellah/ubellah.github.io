@@ -8,7 +8,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Ubella Maria',
+  title: 'Ubellah Maria',
   tagline: 'A Teacher and Student for life.',
   favicon: 'img/favicon.ico',
 
@@ -66,9 +66,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Ubella Maria',
+        title: 'Ubellah Maria',
         logo: {
-          alt: 'Ubella Maria Logo',
+          alt: 'Ubellah Maria Logo',
           src: 'img/logo.svg',
         },
         items: [
