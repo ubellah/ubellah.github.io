@@ -142,7 +142,7 @@ const config = {
   plugins: [
     ['docusaurus-notion-mdx-plugin',
       {
-        notionAuth: 'secret_1CyGYDR64B3UHPMUMCEBwWd71fcqsi8IwZFBCqcEgqS',
+        notionAuth: 'notion-api-key',
         databaseId: '020f06bdf91c4047b8f8553257f41899',
         lastSyncTime: "2020-12-07T10:32:23.473Z"
       }
