@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkubellah_maria_portfolio=self.webpackChunkubellah_maria_portfolio||[]).push([[713],{3457:l=>{l.exports=JSON.parse('[{"label":"intro","permalink":"/blog/tags/intro","count":1},{"label":"hello","permalink":"/blog/tags/hello","count":1},{"label":"blog","permalink":"/blog/tags/blog","count":1}]')}}]);

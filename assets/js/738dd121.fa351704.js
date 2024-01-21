@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkubellah_maria_portfolio=self.webpackChunkubellah_maria_portfolio||[]).push([[4220],{4469:a=>{a.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);

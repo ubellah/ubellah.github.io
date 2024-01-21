@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkubellah_maria_portfolio=self.webpackChunkubellah_maria_portfolio||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/blog/welcome","unlisted":false}]}')}}]);
