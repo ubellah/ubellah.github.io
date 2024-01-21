@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkubellah_maria_portfolio=self.webpackChunkubellah_maria_portfolio||[]).push([[121],{8070:e=>{e.exports=JSON.parse('[{"label":"Quiet","permalink":"/articles/tags/quiet","count":1},{"label":"relationship","permalink":"/articles/tags/relationship","count":1},{"label":"unique","permalink":"/articles/tags/unique","count":1}]')}}]);
