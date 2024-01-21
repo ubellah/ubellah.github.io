@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkubellah_maria_portfolio=self.webpackChunkubellah_maria_portfolio||[]).push([[121],{8070:a=>{a.exports=JSON.parse('[{"label":"leadership","permalink":"/articles/tags/leadership","count":2},{"label":"relationships","permalink":"/articles/tags/relationships","count":1},{"label":"values","permalink":"/articles/tags/values","count":2}]')}}]);
