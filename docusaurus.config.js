@@ -5,6 +5,7 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import { themes as prismThemes } from 'prism-react-renderer';
+import 'dotenv/config';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -142,8 +143,8 @@ const config = {
   plugins: [
     ['docusaurus-notion-mdx-plugin',
       {
-        notionAuth: 'notion-api-key',
-        databaseId: '020f06bdf91c4047b8f8553257f41899',
+        notionAuth: process.env.NOTION_API_KEY,
+        databaseId: process.env.NOTION_DATABASE_KEY,
         lastSyncTime: "2020-12-07T10:32:23.473Z"
       }
     ],
