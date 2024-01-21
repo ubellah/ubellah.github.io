@@ -43,6 +43,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
+          routeBasePath: 'articles',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           //editUrl:
@@ -76,9 +77,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'articleSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Articles',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
@@ -95,8 +96,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Articles',
+                to: '/articles/intro',
               },
             ],
           },
@@ -138,6 +139,15 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+  plugins: [
+    ['docusaurus-notion-mdx-plugin',
+      {
+        notionAuth: 'notion-api-key',
+        databaseId: 'notion-database-id',
+        lastSyncTime: "2020-12-07T10:32:23.473Z"
+      }
+    ],
+  ],
 };
 
 export default config;
